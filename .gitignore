@@ -5,3 +5,4 @@
 /2021_08_11_KMeans/docs/*.html
 !/Random_Forrest
 /Random_Forrest/data/input/input.csv
+/Random_Forrest/data/output/
