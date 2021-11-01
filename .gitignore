@@ -3,6 +3,6 @@
 /2021_08_11_KMeans/code
 /2021_08_11_KMeans/docs/*.md
 /2021_08_11_KMeans/docs/*.html
-!/Random_Forrest
-/Random_Forrest/data/input/input.csv
-/Random_Forrest/data/output/
+!/Random_Forest
+/Random_Forest/data/input/input.csv
+/Random_Forest/data/output/
